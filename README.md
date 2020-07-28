@@ -9,4 +9,4 @@ After end of all round or day it will store the details of students who haven't 
 The file `Final_Remaining_Seats.csv` has the no. of vacant seats of all colleges after whole admission process is over.
 
 ## Conclusion:
-This is just a basic working of the ACPC(Admission Committee for Professional Courses) which works as the Admission Commission in Gujarat for Engineering after 12th Science and Diploma Engineering (D2D-Diploma to Degree).  
+This is just a basic working of the ACPC(Admission Committee for Professional Courses) which works as the Admission Commission in Gujarat for Engineering after 12th Science and Diploma Engineering (D2D-Diploma to Degree). This project shows the power of pyhton to work with large data and with such small code.
